@@ -1,0 +1,3 @@
+# stanford-machine-learning-with-Andrew-ng
+
+# please try it by yourself first .....
